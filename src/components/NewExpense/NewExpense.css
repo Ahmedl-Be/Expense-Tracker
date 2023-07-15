@@ -1,0 +1,6 @@
+.new-expense{
+    padding: 10px;
+    background-color: rgb(124, 134, 131);
+    border:1px solid rgb(165, 150, 150) ;
+    border-radius: 10px;
+}
